@@ -3,9 +3,9 @@
 2. Call function generate license with your need license params.
 
 ## Params
-- [first arg] - license owner name (string)
-- [second arg] - license expire years (integer)
-- [third ard] - json encoded array of license domains (string)
+- [first argument] - license owner name (string)
+- [second argument] - license expire years (integer)
+- [third argument] - json encoded array of license domains (string)
 
 ## Example of generate license 
 ```php
