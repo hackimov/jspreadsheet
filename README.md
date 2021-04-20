@@ -1,7 +1,7 @@
 # usage
 include crack.js to your page, or paste all of code to console and call generateLicense function
 
-call function generateLicense with your need license params
+call function generate license with your need license params
 
 ## params
 - [first arg] - license owner name (string)
