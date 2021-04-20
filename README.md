@@ -1,5 +1,5 @@
 # usage
-include crack.js to your page
+include crack.js to your page, or paste all of code to console and call generateLicense function
 
 call function generateLicense with your need license params
 
