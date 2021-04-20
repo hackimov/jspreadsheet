@@ -308,8 +308,6 @@ function checkLicense(license) {
 			} else {
 				LicenseArray[1] = window.atob(LicenseArray[1]);
 				if (LicenseArray[0] != JShasher("745048504833", LicenseArray[1])) {
-				  console.log(LicenseArray[0]);
-				  console.log(JShasher("745048504833", LicenseArray[1]));
 				  result = 3;
 				} else {
 					LicenseArray[1] = JSON.parse(LicenseArray[1]);
