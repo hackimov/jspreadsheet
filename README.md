@@ -1,6 +1,6 @@
 # Usage
-1. include jspreadsheetCrack.js to your page, or paste all of code to dev tools console and call generateLicense function
-2. call function generate license with your need license params
+1. Include jspreadsheetCrack.js to your page, or paste all of code to dev tools console and call generateLicense function
+2. Call function generate license with your need license params
 
 ## Params
 - [first arg] - license owner name (string)
