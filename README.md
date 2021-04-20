@@ -10,5 +10,5 @@ call function generateLicense with your need license params
 
 ## example of generate license 
 ```php
-generateLicense('alexandr.hackimov', 10, '["yourdomain.com","yourseconddomain.com","anotherdomain.com","localhost"]');
+generateLicense('alexandr.hackimov', 10, '["yourdomain.com","anotherdomain.com","localhost"]');
 ```
