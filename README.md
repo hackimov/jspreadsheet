@@ -1,3 +1,5 @@
+https://jspreadsheet.com/ License generator
+
 # Usage
 1. Include jspreadsheetCrack.js to your page, or paste all of code to dev tools console.
 2. Call function generate license with your need license params.
